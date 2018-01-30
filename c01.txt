@@ -1,0 +1,32 @@
+https://www.ntu.edu.sg/home/ehchua/programming/sql/MySQL_Intermediate.html
+
+1.   Scripting
+1.1  Creating and Running Scripts
+
+> Example
+> Running Script in Batch Mode
+> Running Script via SOURCE Command
+
+1.2  MySQL Scripting Language Syntax
+
+> Comments
+> MySQL Specific Codes
+> Identifiers and Backquotes
+> Case Sensitivities
+
+1.3  Literals
+1.4  Variables
+
+> User-Defined Variables
+> System Variables: 
+> Local Variables (within a Stored Program):
+
+1.5  MySQL Built-in Functions
+
+https://dev.mysql.com/doc/refman/5.5/en//functions.html
+
+> MySQL String Functions
+> MySQL GROUP BY Aggregate Functions
+> MySQL Date/Time Functions
+> MySQL Mathematical Functions
+
